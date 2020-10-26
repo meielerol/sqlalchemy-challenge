@@ -10,11 +10,11 @@ The analysis can be found in the [climate-analysis.ipynb](https://github.com/mei
 
 Percipitation inches over the last year of the data for the most active station is shown in the bar graph below.
 
-![Percipitation Inches vs Date Bar Chart](https://github.com/meielerol/sqlalchemy-challenge/blob/main/output-data/Percipitation-Chart.png)
+<p align="center"><img src="https://github.com/meielerol/sqlalchemy-challenge/blob/main/output-data/Percipitation-Chart.png" alt="Percipitation Inches vs Date Bar Chart"></p>
 
 Frequency of temperatures across the various stations is shown in the histogram below.
 
-![Frequency vs Temperature (F) Histogram](https://github.com/meielerol/sqlalchemy-challenge/blob/main/output-data/ActiveStation-Temp-Chart.png)
+<p align="center"><img src="https://github.com/meielerol/sqlalchemy-challenge/blob/main/output-data/ActiveStation-Temp-Chart.png" alt="Frequency vs Temperature (F) Histogram"></p>
 
 ## Climate App
 
