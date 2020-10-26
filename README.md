@@ -2,7 +2,7 @@
 
 Checking out the climate in Honolulu, Hawaii to make plans for a surfing vacation.
 
-<img align="center" src="https://github.com/meielerol/sqlalchemy-challenge/blob/main/images/image.png" alt ="Honolulu Surf">
+<p align="center"><img src="https://github.com/meielerol/sqlalchemy-challenge/blob/main/images/image.png" alt ="Honolulu Surf"></p>
 
 ## Climate Analysis and Exploration
 
