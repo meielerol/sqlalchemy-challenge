@@ -19,3 +19,11 @@ Frequency of temperatures across the various stations is shown in the histogram 
 ## Climate App
 
 The climate [app.py](https://github.com/meielerol/sqlalchemy-challenge/blob/main/app.py) lists all available routes on the home page. Users can find various json APIs with the data from the [hawaii.sqlite](https://github.com/meielerol/sqlalchemy-challenge/blob/main/Resources/hawaii.sqlite) database.
+
+## Extra Analyses
+
+### Temperature 1
+
+For the selected dates, 8/23/2016-8/23/2017, the bar chart shows the average temperature of the stations with an error bar.
+
+<p align="center"><img src="https://github.com/meielerol/sqlalchemy-challenge/blob/main/output-data/AvgTemp-Chart.png" alt="Average Trip Temperature (F)"></p>
