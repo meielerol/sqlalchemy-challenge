@@ -22,7 +22,7 @@ The climate [app.py](https://github.com/meielerol/sqlalchemy-challenge/blob/main
 
 ## Extra Analyses
 
-### Temperature 1
+### Temperature
 
 For the selected dates, 8/23/2016-8/23/2017, the bar chart shows the average temperature of the stations with an error bar.
 
